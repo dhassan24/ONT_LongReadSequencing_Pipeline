@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+*.txt
+*.fastq
+*.fastq.gz
+*.sam
+*.bam
+*.bai
+*.fa
+*.fa.gz
+*.vcf
+*.log
